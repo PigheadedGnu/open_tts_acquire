@@ -13,7 +13,7 @@
    height="3500"
    id="svg6497"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="Cards.svg">
   <defs
      id="defs6499" />
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497476"
-     inkscape:cx="-166.38205"
-     inkscape:cy="2574.1997"
+     inkscape:cx="-555.62888"
+     inkscape:cy="2674.0171"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1680"
-     inkscape:window-height="988"
-     inkscape:window-x="-8"
+     inkscape:window-width="1218"
+     inkscape:window-height="697"
+     inkscape:window-x="54"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      fit-margin-top="0"
@@ -132,7 +132,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="opacity:0.92000002;fill:#ffffff;fill-opacity:0;stroke:#272626;stroke-width:19.9999218;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="opacity:0.92000002;fill:#ffffff;fill-opacity:1;stroke:#272626;stroke-width:19.9999218;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="rect2987-1-6-18-6-1-8"
        width="280.00024"
        height="479.99991"
@@ -4050,7 +4050,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="opacity:0.92000002;fill:#ffffff;fill-opacity:0;stroke:#272626;stroke-width:19.9999218;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="opacity:0.92000002;fill:#ffffff;fill-opacity:1;stroke:#272626;stroke-width:19.9999218;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="rect2987-1-6-18-6-1-8-1"
        width="280.00024"
        height="479.99991"
@@ -5214,7 +5214,9 @@
        width="100"
        height="100"
        x="-1400"
-       y="-3647.6377" />
+       y="-3647.6377"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:120px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
@@ -7095,49 +7097,63 @@
        height="100"
        x="-1199.8125"
        y="599.79968"
-       transform="translate(-1100.1875,-4847.4375)" />
+       transform="translate(-1100.1875,-4847.4375)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#d23007;fill-opacity:1;stroke:none;display:inline"
        id="rect4500-2"
        width="100"
        height="100"
        x="-2200"
-       y="-4247.6377" />
+       y="-4247.6377"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#ffcc00;fill-opacity:1;stroke:none;display:inline"
        id="rect4500-4"
        width="100"
        height="100"
        x="-2100"
-       y="-4247.6377" />
+       y="-4247.6377"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#a16639;fill-opacity:1;stroke:none;display:inline"
        id="rect4500-8"
        width="100"
        height="100"
        x="-2000"
-       y="-4247.6377" />
+       y="-4247.6377"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#365a66;fill-opacity:1;stroke:none;display:inline"
        id="rect4500-6"
        width="100"
        height="100"
        x="-1900"
-       y="-4247.6377" />
+       y="-4247.6377"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#d2d0d0;fill-opacity:1;stroke:none;display:inline"
        id="rect4500-5"
        width="100"
        height="100"
        x="-1800"
-       y="-4247.6377" />
+       y="-4247.6377"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#272626;fill-opacity:1;stroke:none;display:inline"
        id="rect4500-0"
        width="100"
        height="100"
        x="-1700"
-       y="-4247.6377" />
+       y="-4247.6377"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:90.96129608px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
@@ -7152,5 +7168,14 @@
          id="tspan4213-0-8-0-8-00"
          x="-1349.2432"
          y="-3565.8254">?</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4500-0-66"
+       width="100"
+       height="100"
+       x="-1600"
+       y="-4247.6377"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
