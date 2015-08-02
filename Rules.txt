@@ -1,0 +1,34 @@
+Normal Rules
+===========
+
+Rules ca. 1962: https://docs.google.com/document/d/19y7vcRUgyZIcf8T7abD5gTmIIWMOQHwu6eoqzJsTfj8/
+
+Rules ca. 1999: http://www.wizards.com/avalonhill/rules/acquire.pdf
+
+
+Special Powers Variant
+======================
+
+See: http://www.gamecabinet.com/rules/AcquireVariant.html
+
+At the start of the game, each player gets a set of the 5 cards described, each of which can be used only once per game. A player can play any card at any turn, but only one card can be played on a turn.
+
+Buy 5
+-----
+You may buy up to 5 blocks of stock this turn.
+
+Draw 11
+-------
+Take 5 tiles at the beginning of this turn, bringing you up to 11. Do not take another tile until down to 5 at the end of a turn.
+
+3 For Free
+----------
+The 3 blocks of stock you take this turn are free.
+
+2 For 1
+-------
+Trade 2 blocks of stock you own for one from the Stock Market. May do this up to three times. All blocks traded must be from active chains. (3 blocks may also be bought in usual manner.)
+
+Place 4
+-------
+Place up to 4 tiles this turn. If a tile causes a merger, it is acted upon before the next tile is played.

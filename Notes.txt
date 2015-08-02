@@ -1,0 +1,2 @@
+See project (and contribute) at:
+https://github.com/PigheadedGnu/open_tts_acquire
